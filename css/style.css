@@ -1,9 +1,13 @@
             body{
                 background: black;
-                background-image: url(https://pbs.twimg.com/profile_images/657376468192862208/mBxS1T6P.jpg) no-repeat center;
+                
             }
             
             h1{
                 text-align: center;
+                color: red;
+            }
+            
+            footer{
                 color: red;
             }
